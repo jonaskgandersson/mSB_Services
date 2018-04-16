@@ -1,5 +1,7 @@
 /* 
  *Test script, created from GitHub
+ * Add comment to tet GitHub integration with mSB.com
+ * Add new comment
  */
 
 var timerEvent; // In case you use a timer for fetching data
